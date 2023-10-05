@@ -1,0 +1,23 @@
+body{
+    background-image: url("https://img.wattpad.com/db814cee4039c2849d0a3f902529a1ba9e225921/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f306b6b6634533954784d725033513d3d2d313039383733383039372e3136393131633466396561356263643234303636303137353433322e6a7067");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div{
+    background-color: red;
+    color: yellow;
+}
+
+button{
+    background-color: blue;
+    color: aqua;
+    width: 60px;
+    border-radius: 20px;
+}
+
+h3{
+    background-color: blue;
+    color: aqua;
+    width: 150px;
+}
